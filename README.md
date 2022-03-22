@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+This is a compilation of **links** to resources for quick and easy access for Year 2 Computing at Imperial College London (you will need necessary permissions to access the resources). Contributions and fixes to broken links are welcome :)
 
-You can use the [editor on GitHub](https://github.com/abhinandshibu/abhinandshibu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Main Links
+- [Scientia](https://scientia.doc.ic.ac.uk/2122/modules)
+- [DoC Secret Revision Folder](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year)
+- [Exams (Past Papers)](https://exams.doc.ic.ac.uk/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 50001 (Algorithm Design and Analysis)
+- Formal
+  - [Course Website](https://zenzike.com/algo/)
+- Informal Notes
+  - [8 Page Concise Notes 2018](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F202%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 50002 (Software Engineering Design)
 
-```markdown
-Syntax highlighted code block
+## 50003 (Models of Computation)
 
-# Header 1
-## Header 2
-### Header 3
+## 50004 (Operating Systems)
 
-- Bulleted
-- List
+## 50005 (Networks and Communications)
 
-1. Numbered
-2. List
+## 50006 (Compilers)
 
-**Bold** and _Italic_ and `Code` text
+## 50008 (Probability and Statistics)
 
-[Link](url) and ![Image](src)
-```
+## 50009 (Symbolic Reasoning)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 50011 (Computational Techniques)
 
-### Jekyll Themes
+I didn't take this module though contributions are welcome.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhinandshibu/abhinandshibu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Recommended Contributions
+- Resources for computational techniques
+- Recommended books (and potentially page numbers)
