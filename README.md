@@ -14,12 +14,21 @@ This is a compilation of **links** to resources for quick and easy access for Ye
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FAlgorithms%202%20%2D%20SEA)
   - [8 Page Concise Notes 2018](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F202%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
 
-
 ## 50002 (Software Engineering Design)
 - Formal
   - [EdStem](https://edstem.org/us/courses/14695/discussion/)
+  - [Lecture Notes](https://scientia.doc.ic.ac.uk/2122/modules/50002/resources/Lecture%20Notes)
+  - [Lectures](https://scientia.doc.ic.ac.uk/2122/modules/50002/resources/Lectures)
+  - Exercises are on cate
+  - [Video solutions to exercises](https://scientia.doc.ic.ac.uk/2122/modules/50002/resources/Suggested%20Solutions)
 - Informal
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FSED)
+  - [9 Page Concise Notes 2017](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F220%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
+  - [Someone's Notes](https://imperiallondon-my.sharepoint.com/:w:/r/personal/comparn_ic_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B1789C69B-3C12-4915-9CB3-C16132AE42F1%7D&file=220.docx&action=default&mobileredirect=true)
+  - [Lin-e Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2Fco220%20%28Software%20Engineering%20Design%29%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
+- External
+  - [GoF Design Patterns](https://b-ok.cc/book/632706/5b3eff)
+  - [Refactoring Guru (Simple Explanations with Graphics)](https://refactoring.guru/design-patterns/catalog)
 
 ## 50003 (Models of Computation)
 - Formal
