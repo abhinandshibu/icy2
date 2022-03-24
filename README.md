@@ -4,6 +4,7 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 - [Scientia](https://scientia.doc.ic.ac.uk/2122/modules)
 - [DoC Secret Revision Folder](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year)
 - [Exams (Past Papers)](https://exams.doc.ic.ac.uk/)
+- [EdStem](https://edstem.org/us/courses/14737/discussion/)
 
 ## 50001 (Algorithm Design and Analysis)
 - Formal
