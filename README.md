@@ -29,6 +29,7 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 - External
   - [GoF Design Patterns](https://p300.zlibcdn.com/dtoken/20b1fbcd7ead8897109d659cdfa0b4b8)
   - [Refactoring Guru (Simple Explanations with Graphics)](https://refactoring.guru/design-patterns/catalog)
+  - [10 Design Patterns in 10 Minutes (video)](https://www.youtube.com/watch?v=tv-_1er1mWI)
 
 ## 50003 (Models of Computation)
 - Formal
