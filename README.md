@@ -34,8 +34,11 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 ## 50003 (Models of Computation)
 - Formal
   - [EdStem](https://edstem.org/us/courses/14696/discussion/)
+  - [Lecture Notes](https://scientia.doc.ic.ac.uk/2122/modules/50003/resources/Course%20Material)
+  - [Lecturers](https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%22d3a860dd-9b1c-40c6-adfe-adb400e57a4c%22)
 - Informal
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FModels%20of%20Computation)
+  - [7 Page Concise Notes 2017](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F240%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
 
 ## 50004 (Operating Systems)
 - Formal
