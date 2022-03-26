@@ -63,8 +63,20 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 ## 50008 (Probability and Statistics)
 - Formal
   - [EdStem](https://edstem.org/us/courses/14748/discussion/)
+  - [Notes (Doesn't cover all, especially Markov Chains and multivariate distribution)](https://scientia.doc.ic.ac.uk/2122/modules/50008/resources/Lecture%20Notes/0)
+  - [Probability Slides](https://scientia.doc.ic.ac.uk/2122/modules/50008/resources/Lecture%20Notes)
+  - [Probability Lectures](https://scientia.doc.ic.ac.uk/2122/modules/50008/resources/Lecture%20Videos)
+  - [Statistics Lectures and Slides](https://scientia.doc.ic.ac.uk/2122/modules/50008/resources/Statistics)
+  - Exercises are on cate
 - Informal
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FProbability%20and%20Statistics)
+  - [Formula Sheet](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FProbability%20and%20Statistics%2FSTATSEXAMFORMULAE%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FProbability%20and%20Statistics)
+  - [Formula Sheet on Steriods](https://imperiallondon-my.sharepoint.com/:x:/r/personal/comparn_ic_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7BF01BB7D7-4EA6-46E0-85B7-705FDC3B9D3C%7D&file=formula-sheet-plus-plus.xlsx&action=default&mobileredirect=true)
+  - [7 Page Concise Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F245%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
+  - [Notes by Someone Who Loves Changing Fonts](https://imperiallondon-my.sharepoint.com/:w:/r/personal/comparn_ic_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B75D0A3DD-81AD-4EB6-8B3F-5CCF37426E0A%7D&file=245.docx&action=default&mobileredirect=true)
+  - [Lin-e Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2Fco245%20%28Probability%20%26%20Statistics%29%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
+- External
+  - [A First Course in Probability](https://b-ok.cc/book/5475023/1d262b)
 
 ## 50009 (Symbolic Reasoning)
 - Formal
