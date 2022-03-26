@@ -88,6 +88,9 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 
 I didn't take this module though contributions are welcome.
 
+## Interesting Articles
+- [Why do we have to learn proofs!?](https://people.math.sc.edu/cooper/proofs.pdf)
+
 ## Recommended Contributions
 - Resources for computational techniques
 - Recommended books (and potentially page numbers)
