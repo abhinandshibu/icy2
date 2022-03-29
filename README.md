@@ -77,6 +77,7 @@ This is a compilation of **links** to resources for quick and easy access for Ye
   - [Lin-e Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2Fco245%20%28Probability%20%26%20Statistics%29%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
 - External
   - [A First Course in Probability](https://b-ok.cc/book/5475023/1d262b)
+  - [Probability Spaces, Random Variables, PMF, PDF (videos)](https://www.youtube.com/watch?v=DqGUwoz4d4M&list=PLCO4cUaBLHFG-AJYMValCUpyj6bomcfbv)
 
 ## 50009 (Symbolic Reasoning)
 - Formal
