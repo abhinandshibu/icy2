@@ -1,11 +1,11 @@
 This is a compilation of **links** to resources for quick and easy access for Year 2 Computing at Imperial College London (you will need necessary permissions to access the resources). Contributions and fixes to broken links are welcome :)
 
 ## Main Links
+- [CATe](cate.doc.ic.ac.uk/)
 - [Scientia](https://scientia.doc.ic.ac.uk/2122/modules)
 - [DoC Secret Revision Folder](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year)
 - [Exams (Past Papers)](https://exams.doc.ic.ac.uk/)
 - [EdStem](https://edstem.org/us/courses/14737/discussion/)
-
 ## 50001 (Algorithm Design and Analysis)
 - Formal
   - [Course Website](https://zenzike.com/algo/)
@@ -45,8 +45,13 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 ## 50004 (Operating Systems)
 - Formal
   - [EdStem](https://edstem.org/us/courses/14697/discussion/)
+  - [Lecture Notes](https://scientia.doc.ic.ac.uk/2122/modules/50004/resources/Lecture%20Notes)
+  - [Lectures](https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%2264022244-da6b-4f1f-b083-adb400e57cc7%22)
 - Informal
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FOperating%20Systems)
+  - [God Level Notes](https://wdhg.me/os/)
+- External
+  - [Operating Systems - Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## 50005 (Networks and Communications)
 - Formal
