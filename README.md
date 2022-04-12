@@ -56,8 +56,11 @@ This is a compilation of **links** to resources for quick and easy access for Ye
 ## 50005 (Networks and Communications)
 - Formal
   - [EdStem](https://edstem.org/us/courses/14745/discussion/)
+  - [Notes and Lectures](https://scientia.doc.ic.ac.uk/2122/modules/50005/resources)
 - Informal
   - [DoC Secret Revision Folder Past Paper Answers](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNetworks%20and%20Communications)
+  - [14 Page Concise Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2F212%20%2D%20Spooner%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
+  - [Lin-e Notes](https://imperiallondon-my.sharepoint.com/personal/comparn_ic_ac_uk/_layouts/15/onedrive.aspx?FolderCTID=0x0120003E6EB4970049CD478091BA8D73740DEE&id=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes%2Fco212%20%28Networks%20And%20Communication%29%2Epdf&parent=%2Fpersonal%2Fcomparn%5Fic%5Fac%5Fuk%2FDocuments%2FDoC%20Secret%20Revision%20Folder%2FSecond%20Year%2FNotes)
 
 ## 50006 (Compilers)
 - Formal
